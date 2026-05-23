@@ -2,7 +2,7 @@
 
 An interactive machine-learning dashboard that predicts customer churn using **XGBoost** trained on three real-world datasets. Built with Streamlit and an imbalanced-learning pipeline (SMOTE).
 
-**Streamlit App** : [🔗URL](https://customer-churn-prediction00.streamlit.app)
+**Streamlit App** : 🔗[URL](https://customer-churn-prediction00.streamlit.app)
 
 ---
 
